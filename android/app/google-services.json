@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "868949446743",
+    "firebase_url": "https://moaqeb-c53e6.firebaseio.com",
+    "project_id": "moaqeb-c53e6",
+    "storage_bucket": "moaqeb-c53e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868949446743:android:378f492459bb50eebc9312",
+        "android_client_info": {
+          "package_name": "com.technosaab.moaqeb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868949446743-reff14akjpf902mvki323n7f0li5grh8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.technosaab.moaqeb",
+            "certificate_hash": "e954fb40faca3871574d8a985999469bccc60b9a"
+          }
+        },
+        {
+          "client_id": "868949446743-fd6r7alf3oq6ufi94ggqj0gksemvr0h5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFY40SowafQ5Wh-nh-Q8qFQclv8vEPU0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868949446743-fd6r7alf3oq6ufi94ggqj0gksemvr0h5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,45 @@
+{
+  "name": "moaqeb",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@react-native-community/netinfo": "^3.2.1",
+    "react": "16.8.3",
+    "react-native": "0.59.1",
+    "react-native-autocomplete-input": "^3.6.0",
+    "react-native-button": "^2.3.0",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-device-info": "^2.3.2",
+    "react-native-dotenv": "^0.2.0",
+    "react-native-expandable-section-flatlist": "^1.1.8",
+    "react-native-firebase": "^5.5.6",
+    "react-native-i18n": "^2.0.15",
+    "react-native-image-picker": "^0.28.0",
+    "react-native-modal": "^11.5.3",
+    "react-native-modal-dropdown": "^0.6.2",
+    "react-native-modalbox": "^1.6.0",
+    "react-native-picker-select": "^4.4.0",
+    "react-native-ratings": "^6.3.1",
+    "react-native-restart": "0.0.13",
+    "react-native-simple-radio-button": "^2.7.3",
+    "react-native-simple-toast": "0.0.8",
+    "react-native-version-number": "^0.3.6",
+    "react-navigation": "^2.11.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/runtime": "^7.4.3",
+    "babel-jest": "^24.7.1",
+    "jest": "^24.7.1",
+    "metro-react-native-babel-preset": "^0.53.1",
+    "path": "^0.12.7",
+    "react-test-renderer": "16.8.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
